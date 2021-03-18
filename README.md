@@ -37,5 +37,7 @@ Getting Started
 
 
 
-[Configure]: https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html	"Configure an interpreter using Docker Compose"
+## Using Pycharm to debug pyrmaid python app using docker-compose
+
+[Configure an interpreter using Docker Compose](https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html )
 
