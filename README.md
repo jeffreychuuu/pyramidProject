@@ -31,6 +31,11 @@ Getting Started
 
 
 
-Configuration of Pycharm
+## Configuration of Pycharm
 
 ![development](./images/development.png)
+
+
+
+[Configure]: https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html	"Configure an interpreter using Docker Compose"
+
