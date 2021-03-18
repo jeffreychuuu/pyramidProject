@@ -1,0 +1,9 @@
+pyrmaid:
+  image: pyrmaid:latest
+  container_name: pyrmaid
+  # 1G
+  mem_limit: 1073741824
+  ports:
+    - 6543:6543/tcp
+  restart: on-failure:3
+  net: 'host'
