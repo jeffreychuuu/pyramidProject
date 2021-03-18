@@ -37,7 +37,7 @@ Getting Started
 
 
 
-## Using Pycharm to debug pyrmaid python app using docker-compose
+## Using Pycharm Interpreter to debug python app with Pymarid framework deployed with docker-compose
 
 [Configure an interpreter using Docker Compose](https://www.jetbrains.com/help/pycharm/using-docker-compose-as-a-remote-interpreter.html )
 
